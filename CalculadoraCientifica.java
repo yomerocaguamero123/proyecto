@@ -1,11 +1,10 @@
-import java.util.Scanner; Holaaa vete alv
+import java.util.Scanner; Holaaa los tqm
 public class CalculadoraCientifica{
 	public static void main (String [] arguments){
 			Scanner Teclado = new Scanner(System.in);
       
 			int operacion;
 			//HOLA SOY MELANY //
-			//Hola soy Ren
             //declara variables //
             Double a;
             Double b;
